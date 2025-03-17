@@ -1,1 +1,3 @@
-# Cancer-Prediction-Based-on-Microbiome-Profile
+# Cancer Prediction Based on Microbiome Profile
+
+This project investigates the use of microbiome profiling combined with machine learning to enhance colorectal cancer (CRC) detection. By analyzing microbial data with models such as Random Forest, LightGBM, Logistic regression with L2 regularisation, and ensemble methods, the study identifies distinct microbial signatures associated with CRC, adenoma, and blood-negative cases. The ensemble model outperformed others, highlighting the potential of integrating machine learning in non-invasive CRC diagnostics. Key microbial families like Fusobacteriaceae were significant in model predictions, aligning with existing research. The findings suggest that microbiome-based approaches could revolutionize CRC screening, offering a promising path toward more accurate and personalised healthcare solutions.
